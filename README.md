@@ -1,2 +1,2 @@
 # fox-game
-A Tamagotchi game built completely with JavaScript. 
+A Tamagotchi game that is completely frontend and mostly in JavaScript. Beautiful assets created by https://www.pickledalice.com/
