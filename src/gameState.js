@@ -156,7 +156,6 @@ const gameState = {
     if(this.current !== "HUNGRY") {
       return
     }
-
     this.current = "FEEDING"
     this.dieTime = -1
     this.poopTime = getNextPoopTime(this.clock)
